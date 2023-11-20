@@ -1,0 +1,11 @@
+.headerContainer {
+    display: inline-block;
+    height: 200px;
+    width: fit-content;
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 64px;
+}
